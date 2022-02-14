@@ -5,7 +5,12 @@ description: This resource provides information about the interaction of a subdu
   on convection.
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/12-581-phase-transitions-in-the-earths-interior-spring-2005/4b42ad2082d3ec81daee8f13d2e0e7d0_yao_2.pdf
 file_type: application/pdf
+learning_resource_types:
+- Assignments
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Document
 title: yao_2.pdf
+type: OCWFile
 uid: 4b42ad20-82d3-ec81-daee-8f13d2e0e7d0
 ---

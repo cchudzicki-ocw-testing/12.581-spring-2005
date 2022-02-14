@@ -6,7 +6,12 @@ description: This resource provides information about pressure and temperature o
   for the seismic D"layer.
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/12-581-phase-transitions-in-the-earths-interior-spring-2005/7e9efb9861ba341dbf693cc1971a23fe_murakami2005.pdf
 file_type: application/pdf
+learning_resource_types:
+- Assignments
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Document
 title: murakami2005.pdf
+type: OCWFile
 uid: 7e9efb98-61ba-341d-bf69-3cc1971a23fe
 ---
