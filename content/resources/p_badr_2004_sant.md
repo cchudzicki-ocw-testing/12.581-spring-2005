@@ -11,6 +11,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Document
 title: p_badr_2004_sant.pdf
-type: OCWFile
 uid: e11fa3ea-94d5-f092-9406-02802802b4a7
 ---

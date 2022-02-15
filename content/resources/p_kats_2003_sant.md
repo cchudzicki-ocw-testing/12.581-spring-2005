@@ -10,6 +10,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Document
 title: p_kats_2003_sant.pdf
-type: OCWFile
 uid: b3347886-cdde-4db3-919d-de39b10abe1a
 ---

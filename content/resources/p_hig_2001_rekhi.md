@@ -10,6 +10,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Document
 title: p_hig_2001_rekhi.pdf
-type: OCWFile
 uid: c729e04f-cfcb-b8b7-4847-009967b1669c
 ---

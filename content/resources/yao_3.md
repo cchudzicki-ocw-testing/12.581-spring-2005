@@ -11,6 +11,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Document
 title: yao_3.pdf
-type: OCWFile
 uid: 23c622c8-16eb-c03e-33f5-caf604813ae9
 ---

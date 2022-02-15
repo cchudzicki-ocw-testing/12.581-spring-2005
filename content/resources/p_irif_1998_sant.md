@@ -10,6 +10,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Document
 title: p_irif_1998_sant.pdf
-type: OCWFile
 uid: b06bfa84-13ed-1a86-e956-5001fe15ddda
 ---

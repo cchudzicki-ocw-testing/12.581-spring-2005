@@ -12,6 +12,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Document
 title: p_duf_1996_rekhi.pdf
-type: OCWFile
 uid: 48fa3225-9767-b9bb-1d1f-33f4a54172b8
 ---

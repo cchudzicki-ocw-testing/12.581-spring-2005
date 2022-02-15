@@ -11,6 +11,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Document
 title: shim_2002_csi_pv.pdf
-type: OCWFile
 uid: d6ba538a-1d04-223e-453f-4ea8f09ccc19
 ---

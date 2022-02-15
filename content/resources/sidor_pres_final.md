@@ -10,6 +10,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Document
 title: sidor_pres_final.pdf
-type: OCWFile
 uid: 7cbebf6c-b940-0146-1be1-9b05417e1759
 ---

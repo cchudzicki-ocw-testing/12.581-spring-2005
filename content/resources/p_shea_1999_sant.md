@@ -10,6 +10,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Document
 title: p_shea_1999_sant.pdf
-type: OCWFile
 uid: baa3977a-561a-6b50-e074-982d04b004c1
 ---

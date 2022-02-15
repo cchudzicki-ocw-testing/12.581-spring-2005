@@ -10,6 +10,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Document
 title: dusswdhouse2001.pdf
-type: OCWFile
 uid: 45951b99-1f5b-1aea-0d3d-296ed95eafa1
 ---

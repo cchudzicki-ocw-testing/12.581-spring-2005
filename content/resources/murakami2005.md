@@ -12,6 +12,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Document
 title: murakami2005.pdf
-type: OCWFile
 uid: 7e9efb98-61ba-341d-bf69-3cc1971a23fe
 ---

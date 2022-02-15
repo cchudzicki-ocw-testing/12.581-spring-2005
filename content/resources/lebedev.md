@@ -11,6 +11,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Document
 title: lebedev.pdf
-type: OCWFile
 uid: 513a8ddd-620b-3679-2dd6-b14b820a841d
 ---

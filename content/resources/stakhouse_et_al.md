@@ -12,6 +12,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Document
 title: stakhouse_et_al.pdf
-type: OCWFile
 uid: e21f1af1-d759-59c5-4b65-b03b47a58512
 ---

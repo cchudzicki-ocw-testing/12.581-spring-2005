@@ -10,6 +10,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Document
 title: shim_2001_pres.pdf
-type: OCWFile
 uid: 7f5e9452-a8bd-1f11-d67d-e1f4b9096755
 ---
