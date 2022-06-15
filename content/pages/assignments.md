@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: Assignments section contains presentations by students along with the
+  table listing presentation for every week.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
